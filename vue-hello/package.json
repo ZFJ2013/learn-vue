@@ -1,8 +1,8 @@
 {
-  "name": "vueandwebpack",
+  "name": "vue-hello",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "ZFJ",
+  "author": "ZFJ <zfj2012@goldpalm.com.cn>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
