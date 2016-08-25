@@ -7,10 +7,10 @@ import VueRouter from 'vue-router'
 import VueResource from 'vue-resource'
 
 // 注册两个插件
-Vue.use(VueResource)
-Vue.use(VueRouter)
+Vue.use(VueResource);
+Vue.use(VueRouter);
 
-const router = new VueRouter()
+const router = new VueRouter();
 
 // 路由map
 router.map({
